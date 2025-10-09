@@ -33,22 +33,22 @@ Just a lightweight, plug-and-play APRS weather beacon — configurable using **a
 ## ✨ Features
 
 - 💻 **No Hardware Required**
-- 🌦️ Fetches real-time weather data from **Open-Meteo.com**
-- ⚡ Deploy an APRS WX beacon within minutes
-- 🔁 Optional auto-start on system boot
+- 🌦️ Fetches real-time weather data from **Open-Meteo.com**.
+- ⚡ Deploy an APRS WX beacon within minutes.
+- 🔁 Supports running on system startup.
 
 ---
 
 ## 💾 Requirements
 
 - 🪟 **Windows PC**  
-- ✅ *No additional hardware needed!* 😁
+- ✅ *No additional hardware needed!*. 😁
 
 ---
 
 ## 🌐 Usage Guide
 
-Follow the configuration steps above, and you’ll be live on APRS in minutes! 📡
+Follow the configuration steps above, and you’ll be live on APRS in minutes!. 📡
 
 ---
 
@@ -61,7 +61,7 @@ Follow the configuration steps above, and you’ll be live on APRS in minutes! �
 
 ## 🛠️ Roadmap
 
-- [ ] Add startup instructions for auto-launch on boot  
+- [ ] Add startup instructions for running the software on system startup.  
 - [ ] Include extended atmospheric gas composition data
 
 ---
