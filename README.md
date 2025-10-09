@@ -1,5 +1,4 @@
-# 📡 APRS_Wx_v2 — Powered by Python
-
+# 📡 APRS_Wx_v2 — Powered by Python  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ## 🧠 Zero Hardware. Zero Hardcoding. Zero Hassle.
 No sketches, no soldering, and absolutely **no library dependencies!** 😎  
 Just a lightweight, plug-and-play APRS weather beacon — configurable using **any text editor**.
@@ -72,6 +71,15 @@ Follow the configuration steps above, and you’ll be live on APRS in minutes!. 
 
 
 <!--
+
+# 📡 APRS_Wx_v2 — Powered by Python 🐍
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 # 📡  APRS_Wx_v2 Powered by Python
 
 ## NO HARDWARE !! 
