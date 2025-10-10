@@ -3,6 +3,9 @@
 No sketches, no soldering, and absolutely **no library dependencies!** 😎  
 Just a lightweight, plug-and-play APRS weather beacon — configurable using **any text editor**.
 
+💡 **No installation required!**  
+Runs directly as a **portable application** — from your PC or even a **USB pendrive**. 🧳💻
+
 ---
 
 ## ⚙️ Configuration Steps
