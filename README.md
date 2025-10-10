@@ -7,14 +7,16 @@ Just a lightweight, plug-and-play APRS weather beacon — configurable using **a
 
 ## ⚙️ Configuration Steps
 
-1. Open **`config.ini`** in your favorite text editor (e.g. Notepad, VS Code, Notepad++).
-2. Fill in the following fields:
+1. 📦 **Download** the `aprs.zip` folder from this repository and **extract** it to any location on your system.  
+         You’ll find both **`aprs.exe`** and **`config.ini`** in the same folder.
+2. 📝 Open **`config.ini`** in your favorite text editor (e.g. Notepad, VS Code, Notepad++).
+3. ✏️ Fill in the following fields:
    - 📍 **Latitude** & **Longitude**
    - 📡 **User Callsign**
    - 🔐 **APRS Passcode**
    - ⏱️ **Time Interval (in minutes)**
-3. Save the file.
-4. Run **`aprs.exe`** — just like any other software! 🚀
+4. 💾 Save the file.
+5. 🚀 Run **`aprs.exe`** — just like any other software!
 
 > [!NOTE]
 > Once your callsign & passcode are verified, your WX station will automatically appear on [**aprs.fi**](https://aprs.fi).
