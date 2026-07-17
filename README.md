@@ -3,8 +3,23 @@
 No sketches, no soldering, and absolutely **no library dependencies!** 😎  
 Just a lightweight, plug-and-play APRS weather beacon — configurable using **any text editor**.
 
+## 📢 Latest Update (17-july-2026)
+
+- **`APRS_HOST`** has been updated to improve server connectivity and reliability.
+
+---
+
 💡 **No installation required!**  
 Runs directly as a **portable application** — from your PC or even a **USB pendrive**. 🧳💻
+
+---
+
+## 🔧 Dependencies
+
+> **None.**  
+> 100% standalone — no external libraries or APIs needed to run locally.
+>
+> 
 
 ---
 
@@ -60,17 +75,37 @@ Runs directly as a **portable application** — from your PC or even a **USB pen
 Follow the configuration steps above, and you’ll be live on APRS in minutes!. 📡
 
 ---
+### 🚀 Add to Startup (Windows)
 
-## 🔧 Dependencies
+To automatically start **APRS_Wx_v2** whenever you log into Windows:
 
-> **None.**  
-> 100% standalone — no external libraries or APIs needed to run locally.
+1. Create a folder on your **C:** drive (for example, `C:\APRS`) and move the extracted **`aprs.exe`** and **`config.ini`** files into this folder.
+
+2. Right-click **`aprs.exe`** and select **Create shortcut**.
+   - If Windows asks to place the shortcut on the desktop instead, click **Yes**.
+   - A shortcut named **`aprs.exe - Shortcut`** (or similar) will be created on your desktop.
+
+3. Open the Windows Startup folder:
+   - Press **Win + R**
+   - Type:
+     ```text
+     shell:startup
+     ```
+   - Press **Enter**.
+
+4. Copy the shortcut from your desktop and paste it into the **Startup** folder.
+
+5. Restart your computer. **APRS_Wx_v2** will automatically launch when you log in.
+
+6. After restarting, open **[aprs.fi](https://aprs.fi)** to verify that your weather station data is being uploaded successfully.
+
+> **Note:** It is recommended to place a **shortcut** in the Startup folder rather than moving the actual `aprs.exe` file. This keeps the program in its original location while allowing Windows to launch it automatically at login.
 
 ---
 
 ## 🛠️ Roadmap
 
-- [ ] Add startup instructions for running the software on system startup.  
+- [x] Add startup instructions for running the software on system startup.  
 - [ ] Include extended atmospheric gas composition data
 
 ---
