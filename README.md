@@ -32,7 +32,7 @@ Runs directly as a **portable application** — from your PC or even a **USB pen
 3. 📝 Open **`config.ini`** in your favorite text editor (e.g. Notepad, VS Code, Notepad++).
 4. ✏️ Fill in the following fields:
    - 📍 **Latitude** & **Longitude**
-   - 📡 **User Callsign**
+   - 📡 **User Callsign without SSID**
    - 🔐 **APRS Passcode**
    - ⏱️ **Time Interval (in minutes)**
 5. 💾 Save the file.
