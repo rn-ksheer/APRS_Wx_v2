@@ -1,4 +1,7 @@
 # 📡 APRS_Wx_v2 — Powered by Python  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) (Windows Only)
+
+### *Two Stations version* [APRS_Wx_v3](https://github.com/rn-ksheer/APRS_Wx_v3)
+
 ## 🧠 Zero Hardware. Zero Hardcoding. Zero Hassle.
 No sketches, no soldering, and absolutely **no library dependencies!** 😎  
 Just a lightweight, plug-and-play APRS weather beacon — configurable using **any text editor**.
